@@ -45,7 +45,6 @@ int main()
     //     if(k==a[i])
     //         {
     //             u=i;
-    //             break;
     //         }
     // }
     // cout<<u;
